@@ -153,7 +153,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Dheovan Winata Alvian - [@dheovan.w.a](https://www.instagram.com/dheovan.w.a/) - dheovanwa@gmail.com
-Jonathan Hopi Pranata - 
 
 Project Link: [https://github.com/dheovanwa/PreFarm](https://github.com/dheovanwa/PreFarm)
 
