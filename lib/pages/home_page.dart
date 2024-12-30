@@ -631,7 +631,7 @@ class _ResultsWidgetState extends State<ResultsWidget> {
                                                   color: Color(0xFF003076),
                                                   fontFamily: 'Poppins',
                                                   fontWeight: FontWeight.w700,
-                                                  fontSize: 16
+                                                  fontSize: 12
                                                 ),
                                               ),
                                             ]
@@ -2428,7 +2428,7 @@ class _YieldPredictionButtonState extends State<YieldPredictionButton> {
                 ),
               ),
               TextSpan(
-                text: ' (tonnes)',
+                text: ' (tonnes/ha)',
                 style: TextStyle(
                   fontSize: 12,
                   color: Color(0xFFFFFFFF),
