@@ -1,0 +1,11 @@
+flutter_native_splash:
+  android: true
+  ios: false
+  web: false
+
+  image: 'assets/icons/logo_prefarm.png'
+  color: '#8FCC87'
+
+  android_12:
+    image: 'assets/icons/logo_prefarm.png'
+    color: '#8FCC87'
