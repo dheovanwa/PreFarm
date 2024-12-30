@@ -14,7 +14,7 @@
 [![Android][android-shield]][android-url]
 
   <p align="center">
-    Open-source application for crop yields predictions and plant farming probability
+    Open-source mobile application for crop yields predictions and plant farming probability
     <br />
     <a href="https://github.com/dheovanwa/PreFarm"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,8 +44,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -58,7 +56,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is created for Artificial Intelligence's Assessment of Learning course at our university.
+This project is created for Artificial Intelligence's Assessment of Learning course at our university. These are the names who built this:
+1. [Dheovan Winata Alvian](https://www.linkedin.com/in/dheovan-wa/)
+2. Jefferson Darren Cendres 
+3. [Jonathan Hopi Pranata](https://www.linkedin.com/in/jonathan-hopi-pranata/)
 
 PreFarm is an app that contains two machine learning model. These are the models:
 1. Random Forest Regression: used in predicting the crop yield in units of Hg/Ha.
@@ -69,7 +70,6 @@ Why use PreFarm? Here's why:
 * Successibility of farming plants can help retail to predict whether their plant will grow successfully or not.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -102,7 +102,7 @@ or you could just download and install the .apk software from the google drive.
 
 _Remember to have the software in prerequisites section already installed._
 
-1. Get openweather API Key at [https://openweathermap.org/](https://openweathermap.org/)
+1. Get openweathermap API Key at [https://openweathermap.org/](https://openweathermap.org/)
 2. Clone the repo
 
    ```sh
@@ -124,8 +124,8 @@ _Remember to have the software in prerequisites section already installed._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Contribution
+<!-- CONTRIBUTING -->
+## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -138,6 +138,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 ## License
@@ -147,31 +149,37 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
-<!-- ## Contact
+## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Dheovan Winata Alvian - [@dheovan.w.a](https://www.instagram.com/dheovan.w.a/) - dheovanwa@gmail.com
+Jonathan Hopi Pranata - 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/dheovanwa/PreFarm](https://github.com/dheovanwa/PreFarm)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+* [Freepik](https://www.freepik.com/)
 * [Img Shields](https://shields.io)
-* [Font Awesome](https://fontawesome.com)
+* [Ankush Syal - SVG Repo](https://www.svgrepo.com/author/Ankush%20Syal/)
+* [Dazzle Line Icon Collection - SVG Repo](https://www.svgrepo.com/collection/dazzle-line-icons/)
+* [Basicons - SVG Repo](https://www.svgrepo.com/author/basicons/)
+* [Iconpark - SVG Repo](https://www.svgrepo.com/author/IconPark/)
+* [Konstantin Filatov - SVG Repo](https://www.svgrepo.com/author/Konstantin%20Filatov/)
+* [Saeedworks - SVG Repo](https://www.svgrepo.com/author/Saeedworks/)
+* [Scarlab - SVG Repo](https://www.svgrepo.com/author/scarlab/)
+* [Solar Icons - SVG Repo](https://www.svgrepo.com/author/Solar%20Icons/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-url]: https://github.com/dheovanwa/PreFarm/blob/main/LICENSE
 [android-shield]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white
 [android-url]: https://drive.google.com/drive/folders/1DVgiwbwA-Kh9QcDIExZ_hEUXLlZE1ha-?usp=drive_link
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff
